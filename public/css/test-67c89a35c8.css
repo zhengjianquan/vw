@@ -51,6 +51,7 @@ body{
 			line-height: 12vw;
 			border-bottom: 1px solid #828284;
 			width: 100vw; 
+			box-sizing: border-box;
 		}
 .content .detail .list input{
 				font-size: 3.6vw;
